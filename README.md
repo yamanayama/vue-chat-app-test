@@ -1,31 +1,17 @@
-# vue-chat-app
+## readme
 
-> 
+ファーストコミットは参考サイトそのままアップだよ！
 
-## Build Setup
 
-``` bash
-# install dependencies
-npm install
+## 参考サイト
 
-# serve with hot reload at localhost:8080
-npm run dev
+### VueとFirebaseで爆速でチャットサービスを作ろう
 
-# build for production with minification
-npm run build
+https://qiita.com/ToshioAkaneya/items/aa1211d73c2d38134e63
 
-# build for production and view the bundle analyzer report
-npm run build --report
+### Vue.js を vue-cli を使ってシンプルにはじめてみる
+https://qiita.com/567000/items/dde495d6a8ad1c25fa43
 
-# run unit tests
-npm run unit
+### vue initした時に初めてESlintに出会った俺が最初に知りたかったこと
 
-# run e2e tests
-npm run e2e
-
-# run all tests
-npm test
-```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
-# vue-chat-app-test
+https://qiita.com/po3rin/items/35c3ca3257311a32d667
