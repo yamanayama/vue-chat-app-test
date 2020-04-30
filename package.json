@@ -20,7 +20,7 @@
     "firebase": "^6.3.5",
     "firebase-admin": "^8.3.0",
     "firebase-functions": "^3.2.0",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "moment": "^2.24.0",
     "vue": "^2.6.10",
     "vue-axios": "^2.1.4",
